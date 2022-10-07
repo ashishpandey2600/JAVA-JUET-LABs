@@ -1,2 +1,3 @@
 # JAVA-JUET-LABs
-Learning java programs
+Learning JAVA
+1. Lab 1 & 2.
